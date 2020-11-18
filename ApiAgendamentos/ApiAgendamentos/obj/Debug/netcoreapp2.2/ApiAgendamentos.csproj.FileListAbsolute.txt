@@ -1,0 +1,14 @@
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\ApiAgendamentos.deps.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\ApiAgendamentos.runtimeconfig.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\ApiAgendamentos.runtimeconfig.dev.json
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\bin\Debug\netcoreapp2.2\ApiAgendamentos.dll
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.csprojAssemblyReference.cache
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.AssemblyInfoInputs.cache
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.AssemblyInfo.cs
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.genruntimeconfig.cache
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.RazorAssemblyInfo.cache
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.RazorAssemblyInfo.cs
+C:\Users\barbi\Desktop\aspnet-api-agendamentos\ApiAgendamentos\ApiAgendamentos\obj\Debug\netcoreapp2.2\ApiAgendamentos.RazorTargetAssemblyInfo.cache
